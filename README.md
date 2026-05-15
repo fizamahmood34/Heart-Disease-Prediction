@@ -1,13 +1,13 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a **Machine Learning classification system** that predicts whether a person is at risk of heart disease based on their medical attributes.
 The model is trained on the **UCI Heart Disease Dataset** and uses **Logistic Regression** for prediction.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build a predictive model that can:
 
@@ -17,7 +17,7 @@ To build a predictive model that can:
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 * **Dataset Name:** Heart Disease UCI Dataset
 * **Source:** Kaggle / UCI Repository
@@ -28,7 +28,7 @@ To build a predictive model that can:
   * `0` → Healthy Heart
   * `1` → Heart Disease Present
 
-### 🔑 Features Used:
+###  Features Used:
 
 * age
 * sex
@@ -46,7 +46,7 @@ To build a predictive model that can:
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 * Algorithm: **Logistic Regression**
 * Type: Binary Classification
@@ -60,7 +60,7 @@ To build a predictive model that can:
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Data Collection
 2. Data Cleaning (handling missing values)
@@ -73,7 +73,7 @@ To build a predictive model that can:
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 ### ✔ Accuracy:
 
@@ -88,7 +88,7 @@ To build a predictive model that can:
 
 ---
 
-## 📊 Results & Insights
+##  Results & Insights
 
 * Chest pain type is a strong indicator of heart disease
 * Maximum heart rate (thalach) plays an important role
@@ -97,13 +97,13 @@ To build a predictive model that can:
 
 ---
 
-## 🖥️ Web Application (Optional)
+##  Web Application 
 
 A **Streamlit web app** can be used for interactive predictions where users input medical data and get instant results.
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### 1️⃣ Clone Repository
 
@@ -154,7 +154,7 @@ Heart-Disease-Prediction/
 
 ---
 
-## 👩‍💻 Technologies Used
+##  Technologies Used
 
 * Python 🐍
 * Machine Learning 🤖
@@ -165,7 +165,7 @@ Heart-Disease-Prediction/
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Use advanced models (Random Forest, XGBoost)
 * Improve accuracy using feature engineering
